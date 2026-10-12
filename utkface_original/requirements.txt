@@ -1,0 +1,7 @@
+# Target: Python 3.11. Direct pins observed in the current local environment.
+# These are not a verified historical environment lock; fresh installation is unverified.
+torch==2.9.1
+torchvision==0.24.1
+numpy==2.4.4
+Pillow==12.0.0
+tqdm==4.67.3
