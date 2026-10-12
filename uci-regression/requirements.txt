@@ -1,0 +1,8 @@
+# Target: Python 3.11. Fresh installation/full retraining are not yet verified.
+# Other direct versions were inspected locally; sklearn 1.5.2 is an API compatibility pin.
+numpy==2.4.4
+scipy==1.16.3
+scikit-learn==1.5.2
+pandas==3.0.2
+torch==2.9.1
+uci_datasets @ git+https://github.com/treforevans/uci_datasets.git@f0737523712fe66a1640e4b980b927e8490b58eb
